@@ -1,0 +1,56 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  }
+  
+  @import 'partials/colors';
+  @import 'partials/layout';
+  @import 'partials/spacing';
+  @import 'partials/typography';
+  
+  html{
+    scroll-behavior: smooth;
+  }
+  
+  body{
+    width: 100%;
+    position: relative;
+  
+    background-color: $black-light;
+  
+    &::-webkit-scrollbar{
+      display: none;
+    }
+  
+    &::-webkit-scrollbar-thumb{
+      border-radius: 8px;
+      background: $black-light;
+    }
+  }
+  
+  .border{
+    border: 1px solid $black-dark;
+  }
+  
+  .hidden{
+    overflow: hidden;
+  }
+  
+  .relative{
+    position: relative;
+  }
+  
+  svg,img{
+    width: 100%;
+    //height: auto;
+  }
+
+  .hero{
+    height:100vh;
+  }
+  
+  @import 'partials/menu';
+  @import 'partials/icons';
+  @import 'partials/buttons';
+    
