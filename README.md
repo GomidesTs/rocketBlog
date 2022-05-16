@@ -17,6 +17,8 @@ Tabelas de conteúdo
 ## Descrição do Projeto
 O RocketBlog Foi desenvolvido para dar uma push nas habilidades de desenvolvimento no Desafio Marmitech, onde a partir de uma página estática de blog foi criado uma aplicação frontend em react para ser possível a aplicação de novas features que não estavam no projeto original.
 
+Desenvolvido um artigo no LinkedIn para mostrar aquilo que aprendi ao realizar o projeto e vídeos dele em funcionamento disponivel: https://www.linkedin.com/pulse/rocketblog-tulio-gomides/?trackingId=o5DiThpWQtKRasayOWstJg%3D%3D
+
 ![Badge](https://img.shields.io/badge/Marmitech-RocketBlog-%237159c1?style=for-the-badge&logo=ghost)
 
 <div id='features' />
